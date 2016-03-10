@@ -101,7 +101,7 @@ require(["dojo/topic"], function(topic) {
 	//   then open the developer console, all the layers ids will be listed,
 	//   find the correct one and paste it below
 	// After this setup, clicking the 3rd feature of your layer, will navigate to the third entry
-	var WEBMAP_ID = "0bb11c0469f042b3afaf8b0d76572822";
+	var WEBMAP_ID = "3df68bd691a34765ac7082d5978a3fda";
 	var LAYER_ID = "csv_7673_0";
 	
 	var clickHandlerIsSetup = false;
